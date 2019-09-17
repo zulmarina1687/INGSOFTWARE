@@ -1,0 +1,41 @@
+Buenas Practicas
+https://code.tutsplus.com/tutorials/top-15-best-practices-for-writing-super-readable-code--net-8118
+
+______________________-
+2.- Tiene identacion
+3.- tiene comenartios
+4.-Tiene grupos de codigoss
+5.-Consistent Naming Scheme--> CamelCase , o todo miniscula depende
+6.-DRY Principle --> No teneder codigos duplicados(elements)
+7.-Niveles de Anidacion para entender mejor
+8.-  Limit Line Length --> No escribir de corrido en una linea
+9.-  File and Folder Organization--> Buena organizacion de archivos
+10.-Consistent Temporary Names --> Usar nombres consistentes
+11.- Capitalize SQL Special Words --> Mayuscula palabras reservadas de sql
+12.-  Separation of Code and Data-->Usar frameworks o separar lo ams ks epuede cpdigo en php
+13.-  Alternate Syntax Inside Templates--> Usar solo .lo necesario aparamostrar info
+
+___________________________
+https://medium.com/equals-lab/tem-um-tempinho-para-conversarmos-sobre-boas-pr%C3%A1ticas-de-programa%C3%A7%C3%A3o-com-java-51c5bcc220ea
+
+>> De aca talvez falta geters seters , patrones.... , denhay repetidas
+las buenas practicas
+
+****************************************
+
+SOLIDD
+Principio de responsabilidad única (Single responsibility principle)
+Principio de abierto/cerrado (Open/closed principle)
+Principio de segregación de la interfaz  (Interface segregation principle)
+Principio de inversión de la dependencia (Dependency inversion principle)
+_______________________________________
+*****************************************************
+PATRONESS
+
+la conexion - singleton
+mvc
+
+
+https://code.google.com/archive/p/cibertec/downloads
+https://github.com/rogercarrasco/aprendiendoSpring-Hibernate/tree/master/CURSOS%20MANUALES/manuales%20cibertec
+
